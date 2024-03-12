@@ -21,6 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Imagenes
 
 ![image](https://github.com/aecortega/p14-disenos-6J-0453/assets/143548446/fb73ad27-9737-4100-bbab-5c6cc4372b0c)
-![image](https://github.com/aecortega/p14-disenos-6J-0453/assets/143548446/f53b017f-3c23-4c2a-8a55-3fe7719c9895)
+![image](https://github.com/aecortega/p14-disenos-6J-0453/assets/143548446/deb1e0b7-a833-43e2-92b1-a7a783275428)
 ![image](https://github.com/aecortega/p14-disenos-6J-0453/assets/143548446/2b5ee110-f3a3-487a-ad17-1d6d38f5f63f)
 
